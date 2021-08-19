@@ -1,2 +1,2 @@
 # funprojects
-Fun Projects Found Around The Web
+Projects Found Around The Web
