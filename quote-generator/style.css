@@ -100,10 +100,14 @@ button:active {
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px) {
   .quote-container {
-    margin: auto 10px;
+    margin: auto 30px;
   }
 
   .quote-text {
-    font-size: 2.5rem;
+    font-size: 1.8rem;
+  }
+  
+  .fa-quote-left {
+    font-size: 2rem;
   }
 }
