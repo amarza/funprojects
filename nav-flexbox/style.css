@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.icon {
+    font-size: 2rem;
+    padding: 1rem;
+    background: red;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon:hover {
+    background: blue;
+}
+
+
+.icon2 {
+    float: left;
+}
+.reza {
+    float: right;
+}
+
+.social-icons {
+    display: flex;
+    height: 100vh;
+    align-items: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+
+.bottom {
+    bottom: 0;
+}
